@@ -52,11 +52,10 @@ public class MixinIngameHud {
                 int startY = 32; // Just below FPS (was at 20)
 
                 // Render icon
-                RenderHelper.enableItemLighting();
+
                 ItemRenderer itemRenderer = new ItemRenderer();
                 ItemStack stack = new ItemStack(block);
                 itemRenderer.renderGuiItem(textRenderer, minecraft.textureManager, stack, startX, startY);
-                RenderHelper.disableItemLighting();
 
                 // Render text to the right of icon
                 textRenderer.drawWithShadow(blockName, startX + iconWidth + spacing, startY + 5, Pawxel.color);
