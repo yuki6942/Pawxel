@@ -1,8 +1,9 @@
 # Pawxel Changelog
 
 ## Alpha 0.0.1 - Initial Release
+## Alpha 0.0.2 - Minor Bug Fixes
 
-Currently in **Alpha 0.0.1**
+Currently in **Alpha 0.0.2**
 
 ### ✅ Features
 - 🧭 Displays the client name and version (Pawxel)
