@@ -10,7 +10,7 @@ public class Pawxel implements ModInitializer, ClientModInitializer {
 
 
     public static final String name  = "Pawxel";
-    public static final String version = "0.0.1";
+    public static final String version = "0.0.2";
     public static final int color = 0xFBA0E3;
     public static final Logger LOGGER = LoggerFactory.getLogger("Pawxel");
 
