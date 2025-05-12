@@ -15,7 +15,7 @@ It's a sandbox-style client-side mod where I add anything I find useful, fun, or
 ## 📦 Installation
 
 1. Set up a Beta 1.7.3 Babric-compatible instance (Betacraft Launcher recommended)
-2. Drop `pawxel-0.0.1.jar` into your `mods` folder
+2. Drop `pawxel-x.x.x.jar` into your `mods` folder
 3. Launch the game!
 
 ---
